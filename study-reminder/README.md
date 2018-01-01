@@ -1,0 +1,13 @@
+# How to run this
+- Save it in home folder (Path should be `~/remind_me.sh`)
+- Open terminal and change current directory to `~/`(`cd ~/`)
+- Make the file executable
+  - `chmod +x ~/remind_me.sh`
+- Open *Startup Application`
+- ![image1](https://raw.githubusercontent.com/ujjaldas1997/Data_images/master/shell/startup1.png)
+- Click on `Add` and fill respective the text fields
+  - Give any unique name
+  - type the full file path in `command`(`/home/ujjaldas223/remind_me.sh` in my case)
+  - give the relevant description
+- ![image2](https://raw.githubusercontent.com/ujjaldas1997/Data_images/master/shell/startup2.png)
+- Restart your system
